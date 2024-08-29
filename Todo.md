@@ -6,7 +6,7 @@
 [/] Lab 6: Passing Data into a Component
 [/] Lab 7: Displaying List Data
 [/] Lab 8: More Reusable Components
-[] Lab 9: Responding to an Event
+[/] Lab 9: Responding to an Event
 [] Lab 10: Create a Form
 [] Lab 11: Communicating from Child to Parent Component
 [] Lab 12: Hiding and Showing Components
