@@ -4,8 +4,8 @@
 [/] Lab 4: Your First Component
 [/] Lab 5: Creating Data Structures
 [/] Lab 6: Passing Data into a Component
-[] Lab 7: Displaying List Data
-[] Lab 8: More Reusable Components
+[/] Lab 7: Displaying List Data
+[/] Lab 8: More Reusable Components
 [] Lab 9: Responding to an Event
 [] Lab 10: Create a Form
 [] Lab 11: Communicating from Child to Parent Component
