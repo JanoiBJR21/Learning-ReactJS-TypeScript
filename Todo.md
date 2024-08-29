@@ -14,7 +14,7 @@
 [/] Lab 14: Multiple Levels of Component Communication
 [/] Lab 15: Form Values to State
 [/] Lab 16: Form Validation
-[] Lab 17: Setup Backend REST API
+[/] Lab 17: Setup Backend REST API
 [] Lab 18: HTTP GET
 [] Lab 19: HTTP PUT
 [] Lab 20: Router Basics
