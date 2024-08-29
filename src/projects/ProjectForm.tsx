@@ -1,10 +1,14 @@
-import React from 'react'
+import React from "react";
 
-function ProjectForm() {
+interface ProjectFormProps {
+  onCancel: () => void;
+}
+
+function ProjectForm({ onCancel }: ProjectFormProps) {
   return (
-    <form className='input-group vertical'>
+    <form className="input-group vertical">
       <label htmlFor="name">Project Name</label>
-      <input type="text" name='name' placeholder='Enter name' />
+      <input type="text" name="name" placeholder="Enter name" />
 
       <label htmlFor="description">Project Description</label>
       <textarea name="description" placeholder="Enter description" />
@@ -18,7 +22,7 @@ function ProjectForm() {
       <div className="input-group">
         <button className="primary bordered medium">Save</button>
         <span />
-        <button type="button" className="bordered medium">
+        <button type="button" className="bordered medium" onClick={onCancel}>
           cancel
         </button>
       </div>
@@ -26,4 +30,4 @@ function ProjectForm() {
   );
 }
 
-export default ProjectForm
+export default ProjectForm;

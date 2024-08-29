@@ -10,7 +10,7 @@
 [/] Lab 10: Create a Form
 [/] Lab 11: Communicating from Child to Parent Component
 [/] Lab 12: Hiding and Showing Components
-[] Lab 13: More Component Communication
+[/] Lab 13: More Component Communication
 [] Lab 14: Multiple Levels of Component Communication
 [] Lab 15: Form Values to State
 [] Lab 16: Form Validation
